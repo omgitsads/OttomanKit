@@ -4,6 +4,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 target 'OttomanKit', :exclusive => true do
   pod "OttomanKit", :path => "../"
 
-  pod 'Specta', '~> 0.2.1'
+  pod 'Specta', '~> 0.3.0'
   pod 'Expecta'
 end
