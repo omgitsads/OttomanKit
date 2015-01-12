@@ -11,5 +11,6 @@
 @interface OKClient (Movies)
 
 - (NSURLSessionDataTask*)moviesWithCompletion:(OKCollectionCompletionBlock)completion;
+- (NSURLSessionDataTask*)movieWithId:(NSString*)movieId completion:(OKResourceCompletionBlock)completion;
 
 @end

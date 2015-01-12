@@ -14,6 +14,12 @@
 @implementation OKClient (Movies)
 - (NSURLSessionDataTask*)moviesWithCompletion:(OKCollectionCompletionBlock)completion
 {
-    return [self requestWithPath:@"movie.list" parameters:@{} rootNode:@"movies" completion:completion];
+    return [self collectionRequestWithPath:@"movie.list" parameters:@{} rootNode:@"movies" completion:completion];
 }
+
+- (NSURLSessionDataTask*)movieWithId:(NSString *)movieId completion:(OKResourceCompletionBlock)completion
+{
+    return [self requestWithPath:@"media.get" parameters:@{@"id": movieId} rootNode:@"media" completion:completion];
+}
+
 @end

@@ -1,192 +1,195 @@
 {
-    "status": "done",
-    "info": {
-        "rating": {
-            "imdb": [
-                     7.2,
-                     276713
-                     ]
-        },
-        "genres": [
-                   "Action",
-                   "Comedy",
-                   "Crime"
-                   ],
-        "tmdb_id": 64688,
-        "plot": "In high school, Schmidt was a dork and Jenko was the popular jock. After graduation, both of them joined the police force and ended up as partners riding bicycles in the city park. Since they are young and look like high school students, they are assigned to an undercover unit to infiltrate a drug ring that is supplying high school students synthetic drugs.",
-        "tagline": "They thought the streets were mean. Then they went back to high school.",
-        "original_title": "21 Jump Street",
-        "actor_roles": {
-            "Rob Riggle": "Mr. Walters",
-            "Dave Franco": "Eric",
-            "Caroline Aaron": "Annie Schmidt",
-            "Ellie Kemper": "Ms. Griggs",
-            "Johnny Pemberton": "Delroy",
-            "Holly Robinson Peete": "Officer Judy Hoffs",
-            "Brie Larson": "Molly",
-            "Channing Tatum": "Jenko",
-            "Ice Cube": "Capt. Dickson",
-            "Jonah Hill": "Schmidt",
-            "Jake M. Johnson": "Principal Dadier",
-            "Joe Chrest": "David Schmidt",
-            "Nick Offerman": "Captain",
-            "Dakota Johnson": "Fugazy",
-            "Johnny Simmons": "Billiam Willingham",
-            "Johnny Depp": "Tom Hanson (uncredited)"
-        },
-        "collection": "Jump Street Collection",
-        "via_imdb": true,
-        "mpaa": "R",
-        "via_tmdb": true,
-        "directors": [
-                      "Phil Lord",
-                      "Christopher Miller"
-                      ],
-        "titles": [
-                   "21 Jump Street",
-                   "Comando especial",
-                   "Agentes Secundários"
-                   ],
-        "imdb": "tt1232829",
-        "year": 2012,
-        "images": {
-            "disc_art": [
-                         "http://assets.fanart.tv/fanart/movies/64688/moviedisc/21-jump-street-51f4bd6b9be16.png"
-                         ],
-            "poster": [
-                       "https://image.tmdb.org/t/p/w154/mH6xazzfGdszadd1Xy9JgdZYvn1.jpg",
-                       "http://ia.media-imdb.com/images/M/MV5BMTc3NzQ3OTg3NF5BMl5BanBnXkFtZTcwMjk5OTcxNw@@._V1_.jpg",
-                       "http://ia.media-imdb.com/images/M/MV5BMTc3NzQ3OTg3NF5BMl5BanBnXkFtZTcwMjk5OTcxNw@@._V1_SX300.jpg"
-                       ],
-            "extra_thumbs": [
-                             "https://image.tmdb.org/t/p/original/dsBgguvHDDOsUi6h10UxDFZyHRA.jpg",
-                             "https://image.tmdb.org/t/p/original/vGB4AFqcC6m1N95FhfCgF2zIhrn.jpg",
-                             "https://image.tmdb.org/t/p/original/a6DtLRC5lWO4xfg9EqPFlVq7OCD.jpg",
-                             "https://image.tmdb.org/t/p/original/5T8GPKMZZ3QSu8jJDBFJcXLz5uq.jpg"
-                             ],
-            "poster_original": [
-                                "https://image.tmdb.org/t/p/original/mH6xazzfGdszadd1Xy9JgdZYvn1.jpg"
-                                ],
-            "landscape": [
-                          "http://assets.fanart.tv/fanart/movies/64688/moviethumb/21-jump-street-50a0263f2291f.jpg"
-                          ],
-            "actors": {
-                "Rob Riggle": "https://image.tmdb.org/t/p/w185/tWh7aVLl82jxX6U0f7tRTN7Sw3S.jpg",
-                "Dave Franco": "https://image.tmdb.org/t/p/w185/sWsW3mFSJzfbMUf43R0J8tY8BeW.jpg",
-                "Caroline Aaron": "https://image.tmdb.org/t/p/w185/9v9h9bR4CX6MrpZFgEktTHFIlgT.jpg",
-                "Ellie Kemper": "https://image.tmdb.org/t/p/w185/tOelDZAM7N3WQwln6KiAlzxgmEK.jpg",
-                "Johnny Pemberton": "https://image.tmdb.org/t/p/w185/lV9UognW1VG8P8nESSrArveBRou.jpg",
-                "Joe Chrest": "https://image.tmdb.org/t/p/w185/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg",
-                "Brie Larson": "https://image.tmdb.org/t/p/w185/kQISVkyVwSDd1k9htv9YIV10uGs.jpg",
-                "Nick Offerman": "https://image.tmdb.org/t/p/w185/nr5BJGQX6G6oGEOwd9FPzbpTekr.jpg",
-                "Jonah Hill": "https://image.tmdb.org/t/p/w185/paKfXGK2gnYHWkqe1NiQR1pGac7.jpg",
-                "Jake M. Johnson": "https://image.tmdb.org/t/p/w185/7X6pb4SDs9RoXi5gI4Nl8ZiPO4l.jpg",
-                "Holly Robinson Peete": "https://image.tmdb.org/t/p/w185/3ccqrQJUvCRjA7Hp9SDUpdLylR3.jpg",
-                "Ice Cube": "https://image.tmdb.org/t/p/w185/iG0Nvnql8NpnySQOLQAIOyRl4tR.jpg",
-                "Dakota Johnson": "https://image.tmdb.org/t/p/w185/wKVhApynNtDyeKgBias2nIHRjlE.jpg",
-                "Johnny Simmons": "https://image.tmdb.org/t/p/w185/bsmAdQYSWAuy87tcrDaCvmNUNOq.jpg",
-                "Johnny Depp": "https://image.tmdb.org/t/p/w185/5sc2pu4YWItxCaXSvrFpg64zN9J.jpg",
-                "Channing Tatum": "https://image.tmdb.org/t/p/w185/fes96sycbYbaKQrRpCc70WcnNPu.jpg"
+    "media": {
+        "status": "done",
+        "info": {
+            "rating": {
+                "imdb": [
+                         7.2,
+                         276713
+                         ]
             },
-            "backdrop_original": [
-                                  "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-4fec00d6655a2.jpg",
-                                  "https://image.tmdb.org/t/p/original/uOpFdld7CIifSEoGuRVgWqaeyFs.jpg"
-                                  ],
-            "clear_art": [
-                          "http://assets.fanart.tv/fanart/movies/64688/movieart/21-jump-street-4fd85b53d526c.png"
-                          ],
-            "logo": [
-                     "http://assets.fanart.tv/fanart/movies/64688/hdmovielogo/21-jump-street-50ecc63aa9950.png"
-                     ],
-            "banner": [
-                       "http://assets.fanart.tv/fanart/movies/64688/moviebanner/21-jump-street-50a02610d038c.jpg"
+            "genres": [
+                       "Action",
+                       "Comedy",
+                       "Crime"
                        ],
-            "backdrop": [
-                         "https://image.tmdb.org/t/p/w1280/uOpFdld7CIifSEoGuRVgWqaeyFs.jpg"
+            "tmdb_id": 64688,
+            "plot": "In high school, Schmidt was a dork and Jenko was the popular jock. After graduation, both of them joined the police force and ended up as partners riding bicycles in the city park. Since they are young and look like high school students, they are assigned to an undercover unit to infiltrate a drug ring that is supplying high school students synthetic drugs.",
+            "tagline": "They thought the streets were mean. Then they went back to high school.",
+            "original_title": "21 Jump Street",
+            "actor_roles": {
+                "Rob Riggle": "Mr. Walters",
+                "Dave Franco": "Eric",
+                "Caroline Aaron": "Annie Schmidt",
+                "Ellie Kemper": "Ms. Griggs",
+                "Johnny Pemberton": "Delroy",
+                "Holly Robinson Peete": "Officer Judy Hoffs",
+                "Brie Larson": "Molly",
+                "Channing Tatum": "Jenko",
+                "Ice Cube": "Capt. Dickson",
+                "Jonah Hill": "Schmidt",
+                "Jake M. Johnson": "Principal Dadier",
+                "Joe Chrest": "David Schmidt",
+                "Nick Offerman": "Captain",
+                "Dakota Johnson": "Fugazy",
+                "Johnny Simmons": "Billiam Willingham",
+                "Johnny Depp": "Tom Hanson (uncredited)"
+            },
+            "collection": "Jump Street Collection",
+            "via_imdb": true,
+            "mpaa": "R",
+            "via_tmdb": true,
+            "directors": [
+                          "Phil Lord",
+                          "Christopher Miller"
+                          ],
+            "titles": [
+                       "21 Jump Street",
+                       "Comando especial",
+                       "Agentes Secundários"
+                       ],
+            "imdb": "tt1232829",
+            "year": 2012,
+            "images": {
+                "disc_art": [
+                             "http://assets.fanart.tv/fanart/movies/64688/moviedisc/21-jump-street-51f4bd6b9be16.png"
+                             ],
+                "poster": [
+                           "https://image.tmdb.org/t/p/w154/mH6xazzfGdszadd1Xy9JgdZYvn1.jpg",
+                           "http://ia.media-imdb.com/images/M/MV5BMTc3NzQ3OTg3NF5BMl5BanBnXkFtZTcwMjk5OTcxNw@@._V1_.jpg",
+                           "http://ia.media-imdb.com/images/M/MV5BMTc3NzQ3OTg3NF5BMl5BanBnXkFtZTcwMjk5OTcxNw@@._V1_SX300.jpg"
+                           ],
+                "extra_thumbs": [
+                                 "https://image.tmdb.org/t/p/original/dsBgguvHDDOsUi6h10UxDFZyHRA.jpg",
+                                 "https://image.tmdb.org/t/p/original/vGB4AFqcC6m1N95FhfCgF2zIhrn.jpg",
+                                 "https://image.tmdb.org/t/p/original/a6DtLRC5lWO4xfg9EqPFlVq7OCD.jpg",
+                                 "https://image.tmdb.org/t/p/original/5T8GPKMZZ3QSu8jJDBFJcXLz5uq.jpg"
+                                 ],
+                "poster_original": [
+                                    "https://image.tmdb.org/t/p/original/mH6xazzfGdszadd1Xy9JgdZYvn1.jpg"
+                                    ],
+                "landscape": [
+                              "http://assets.fanart.tv/fanart/movies/64688/moviethumb/21-jump-street-50a0263f2291f.jpg"
+                              ],
+                "actors": {
+                    "Rob Riggle": "https://image.tmdb.org/t/p/w185/tWh7aVLl82jxX6U0f7tRTN7Sw3S.jpg",
+                    "Dave Franco": "https://image.tmdb.org/t/p/w185/sWsW3mFSJzfbMUf43R0J8tY8BeW.jpg",
+                    "Caroline Aaron": "https://image.tmdb.org/t/p/w185/9v9h9bR4CX6MrpZFgEktTHFIlgT.jpg",
+                    "Ellie Kemper": "https://image.tmdb.org/t/p/w185/tOelDZAM7N3WQwln6KiAlzxgmEK.jpg",
+                    "Johnny Pemberton": "https://image.tmdb.org/t/p/w185/lV9UognW1VG8P8nESSrArveBRou.jpg",
+                    "Joe Chrest": "https://image.tmdb.org/t/p/w185/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg",
+                    "Brie Larson": "https://image.tmdb.org/t/p/w185/kQISVkyVwSDd1k9htv9YIV10uGs.jpg",
+                    "Nick Offerman": "https://image.tmdb.org/t/p/w185/nr5BJGQX6G6oGEOwd9FPzbpTekr.jpg",
+                    "Jonah Hill": "https://image.tmdb.org/t/p/w185/paKfXGK2gnYHWkqe1NiQR1pGac7.jpg",
+                    "Jake M. Johnson": "https://image.tmdb.org/t/p/w185/7X6pb4SDs9RoXi5gI4Nl8ZiPO4l.jpg",
+                    "Holly Robinson Peete": "https://image.tmdb.org/t/p/w185/3ccqrQJUvCRjA7Hp9SDUpdLylR3.jpg",
+                    "Ice Cube": "https://image.tmdb.org/t/p/w185/iG0Nvnql8NpnySQOLQAIOyRl4tR.jpg",
+                    "Dakota Johnson": "https://image.tmdb.org/t/p/w185/wKVhApynNtDyeKgBias2nIHRjlE.jpg",
+                    "Johnny Simmons": "https://image.tmdb.org/t/p/w185/bsmAdQYSWAuy87tcrDaCvmNUNOq.jpg",
+                    "Johnny Depp": "https://image.tmdb.org/t/p/w185/5sc2pu4YWItxCaXSvrFpg64zN9J.jpg",
+                    "Channing Tatum": "https://image.tmdb.org/t/p/w185/fes96sycbYbaKQrRpCc70WcnNPu.jpg"
+                },
+                "backdrop_original": [
+                                      "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-4fec00d6655a2.jpg",
+                                      "https://image.tmdb.org/t/p/original/uOpFdld7CIifSEoGuRVgWqaeyFs.jpg"
+                                      ],
+                "clear_art": [
+                              "http://assets.fanart.tv/fanart/movies/64688/movieart/21-jump-street-4fd85b53d526c.png"
+                              ],
+                "logo": [
+                         "http://assets.fanart.tv/fanart/movies/64688/hdmovielogo/21-jump-street-50ecc63aa9950.png"
                          ],
-            "extra_fanart": [
-                             "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-4fec00d6661bd.jpg",
-                             "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-50a026bc37b58.jpg",
-                             "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-52126ffa2fb20.jpg",
-                             "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-520fd3b346c54.jpg",
-                             "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-520fd3b350f4e.jpg"
+                "banner": [
+                           "http://assets.fanart.tv/fanart/movies/64688/moviebanner/21-jump-street-50a02610d038c.jpg"
+                           ],
+                "backdrop": [
+                             "https://image.tmdb.org/t/p/w1280/uOpFdld7CIifSEoGuRVgWqaeyFs.jpg"
+                             ],
+                "extra_fanart": [
+                                 "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-4fec00d6661bd.jpg",
+                                 "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-50a026bc37b58.jpg",
+                                 "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-52126ffa2fb20.jpg",
+                                 "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-520fd3b346c54.jpg",
+                                 "http://assets.fanart.tv/fanart/movies/64688/moviebackground/21-jump-street-520fd3b350f4e.jpg"
+                                 ]
+            },
+            "actors": [
+                       "Jonah Hill",
+                       "Channing Tatum",
+                       "Brie Larson",
+                       "Dave Franco"
+                       ],
+            "writers": [
+                        "Michael Bacall (screenplay)",
+                        "Michael Bacall (story)",
+                        "Jonah Hill (story)",
+                        "Patrick Hasburgh (television series)",
+                        "Stephen J. Cannell (television series)"
+                        ],
+            "runtime": 109,
+            "type": "movie",
+            "released": "2012-03-12"
+        },
+        "_t": "media",
+        "releases": [
+                     {
+                     "status": "done",
+                     "info": {
+                     "protocol": "nzb",
+                     "description": "",
+                     "name": "21.Jump.Street.2012.720p.BluRay.DTS.x264-HiDt",
+                     "url": "http://api.dognzb.cr/api?t=get&id=6cde7524de3c5cb47cd84686c8bd7eae&apikey=442bfc3f8b5befaf624ef4b12e202797",
+                     "age": 776,
+                     "name_extra": "",
+                     "seed_ratio": "",
+                     "content": "\n\t\t\t\t\t\t  <div class=\"row-fluid\">\n\t\t\t\t\t\t\t  <table cellpadding=0 cellspacing=0>\n\t\t\t\t\t\t\t\t  <tr valign=\"top\">\n\t\t\t\t\t\t\t\t\t  \n\t\t\t\t\t\t\t\t\t\t  <td width=110><img style=\"margin-left:10px; margin-bottom:10px; float:right;\" src=\"http://dognzb.cr/content/covers/movies/thumbs/1232829.png\" border=\"0\" /></td>\n\t\t\t\t\t\t\t\t\t  \n\t\t\t\t\t\t\t\t\t  <td>\n\t\t\t\t\t\t\t\t\t\t  <b>Name:</b> 21.Jump.Street.2012.720p.BluRay.DTS.x264-HiDt<br /><b>Category:</b> Movies > HD<br /><b>Size:</b> 4.81 GB<br /><b>Post Date:</b> June 11, 2012 1:23 PM<br /><b>Group:</b> alt.binaries.nospam.cheerleaders<br />\n\t\t\t\t\t\t\t\t\t\t  <b>Year:</b> 2012<br /> <b>Rating:</b> 80<br /> <b>Genre:</b> Action,  Comedy,  Crime<br /> \n\t\t\t\t\t\t\t\t\t  </td>\n\t\t\t\t\t\t\t\t  </tr>\n\t\t\t\t\t\t\t  </table>\n\t\t\t\t\t\t  </div>\n\t\t\t\t\t\t  ",
+                     "score": 61,
+                     "provider": "Newznab",
+                     "seed_time": "",
+                     "provider_extra": ", api.dognzb.cr",
+                     "detail_url": "http://api.dognzb.cr/details/6cde7524de3c5cb47cd84686c8bd7eae",
+                     "type": "movie",
+                     "id": "6cde7524de3c5cb47cd84686c8bd7eae",
+                     "size": 4921
+                     },
+                     "download_info": {
+                     "status_support": true,
+                     "id": "SABnzbd_nzo_lRUVfq",
+                     "downloader": "Sabnzbd"
+                     },
+                     "_id": "a8c6d74154ab4285a272d6fba7f2db8c",
+                     "media_id": "b42d9546a25b4ea2915ec24fc7aea77d",
+                     "_rev": "0006f2f2",
+                     "_t": "release",
+                     "is_3d": false,
+                     "last_edit": 1406501667,
+                     "identifier": "tt1232829.DTS.720p",
+                     "quality": "720p",
+                     "files": {
+                     "nfo": [
+                             "/home/media/movies/21 Jump Street (2012)/21 Jump Street.orig.nfo"
+                             ],
+                     "movie": [
+                               "/home/media/movies/21 Jump Street (2012)/21 Jump Street.mkv"
+                               ]
+                     }
+                     }
+                     ],
+        "title": "21 Jump Street",
+        "_rev": "00098be7",
+        "profile_id": "f14b80f4560f4e3c9d8b5f6fc93e4ea0",
+        "_id": "b42d9546a25b4ea2915ec24fc7aea77d",
+        "tags": [],
+        "category_id": null,
+        "type": "movie",
+        "files": {
+            "image_poster": [
+                             "/var/couchpotato/cache/714c041542032d7985cf2ca295c9bb90.jpg"
                              ]
         },
-        "actors": [
-                   "Jonah Hill",
-                   "Channing Tatum",
-                   "Brie Larson",
-                   "Dave Franco"
-                   ],
-        "writers": [
-                    "Michael Bacall (screenplay)",
-                    "Michael Bacall (story)",
-                    "Jonah Hill (story)",
-                    "Patrick Hasburgh (television series)",
-                    "Stephen J. Cannell (television series)"
-                    ],
-        "runtime": 109,
-        "type": "movie",
-        "released": "2012-03-12"
+        "identifiers": {
+            "imdb": "tt1232829"
+        }
     },
-    "_t": "media",
-    "releases": [
-                 {
-                 "status": "done",
-                 "info": {
-                 "protocol": "nzb",
-                 "description": "",
-                 "name": "21.Jump.Street.2012.720p.BluRay.DTS.x264-HiDt",
-                 "url": "http://api.dognzb.cr/api?t=get&id=6cde7524de3c5cb47cd84686c8bd7eae&apikey=442bfc3f8b5befaf624ef4b12e202797",
-                 "age": 776,
-                 "name_extra": "",
-                 "seed_ratio": "",
-                 "content": "\n\t\t\t\t\t\t  <div class=\"row-fluid\">\n\t\t\t\t\t\t\t  <table cellpadding=0 cellspacing=0>\n\t\t\t\t\t\t\t\t  <tr valign=\"top\">\n\t\t\t\t\t\t\t\t\t  \n\t\t\t\t\t\t\t\t\t\t  <td width=110><img style=\"margin-left:10px; margin-bottom:10px; float:right;\" src=\"http://dognzb.cr/content/covers/movies/thumbs/1232829.png\" border=\"0\" /></td>\n\t\t\t\t\t\t\t\t\t  \n\t\t\t\t\t\t\t\t\t  <td>\n\t\t\t\t\t\t\t\t\t\t  <b>Name:</b> 21.Jump.Street.2012.720p.BluRay.DTS.x264-HiDt<br /><b>Category:</b> Movies > HD<br /><b>Size:</b> 4.81 GB<br /><b>Post Date:</b> June 11, 2012 1:23 PM<br /><b>Group:</b> alt.binaries.nospam.cheerleaders<br />\n\t\t\t\t\t\t\t\t\t\t  <b>Year:</b> 2012<br /> <b>Rating:</b> 80<br /> <b>Genre:</b> Action,  Comedy,  Crime<br /> \n\t\t\t\t\t\t\t\t\t  </td>\n\t\t\t\t\t\t\t\t  </tr>\n\t\t\t\t\t\t\t  </table>\n\t\t\t\t\t\t  </div>\n\t\t\t\t\t\t  ",
-                 "score": 61,
-                 "provider": "Newznab",
-                 "seed_time": "",
-                 "provider_extra": ", api.dognzb.cr",
-                 "detail_url": "http://api.dognzb.cr/details/6cde7524de3c5cb47cd84686c8bd7eae",
-                 "type": "movie",
-                 "id": "6cde7524de3c5cb47cd84686c8bd7eae",
-                 "size": 4921
-                 },
-                 "download_info": {
-                 "status_support": true,
-                 "id": "SABnzbd_nzo_lRUVfq",
-                 "downloader": "Sabnzbd"
-                 },
-                 "_id": "a8c6d74154ab4285a272d6fba7f2db8c",
-                 "media_id": "b42d9546a25b4ea2915ec24fc7aea77d",
-                 "_rev": "0006f2f2",
-                 "_t": "release",
-                 "is_3d": false,
-                 "last_edit": 1406501667,
-                 "identifier": "tt1232829.DTS.720p",
-                 "quality": "720p",
-                 "files": {
-                 "nfo": [
-                         "/home/media/movies/21 Jump Street (2012)/21 Jump Street.orig.nfo"
-                         ],
-                 "movie": [
-                           "/home/media/movies/21 Jump Street (2012)/21 Jump Street.mkv"
-                           ]
-                 }
-                 }
-                 ],
-    "title": "21 Jump Street",
-    "_rev": "00098be7",
-    "profile_id": "f14b80f4560f4e3c9d8b5f6fc93e4ea0",
-    "_id": "b42d9546a25b4ea2915ec24fc7aea77d",
-    "tags": [],
-    "category_id": null,
-    "type": "movie",
-    "files": {
-        "image_poster": [
-                         "/var/couchpotato/cache/714c041542032d7985cf2ca295c9bb90.jpg"
-                         ]
-    },
-    "identifiers": {
-        "imdb": "tt1232829"
-    }
+    "success": true
 }

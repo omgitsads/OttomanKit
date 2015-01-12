@@ -8,8 +8,10 @@
 
 #import "AFHTTPSessionManager.h"
 #import "OKCollectionResponse.h"
+#import "OKResourceResponse.h"
 
 typedef void (^OKCollectionCompletionBlock)(OKCollectionResponse *collectionResponse, NSError *error);
+typedef void (^OKResourceCompletionBlock)(OKResourceResponse *resourceResponse, NSError *error);
 
 extern NSString * const OKClientErrorDomain;
 

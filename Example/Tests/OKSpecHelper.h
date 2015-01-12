@@ -8,6 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
+#import <OHHTTPStubs.h>
+#import <BlocksKit.h>
+
 @interface OKSpecHelper : NSObject
 + (id)JSONFromLocalFileWithName:(NSString *)name;
 + (NSString *)contentsOfLocalFileWithName:(NSString *)name;

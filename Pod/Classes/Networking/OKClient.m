@@ -36,7 +36,7 @@ NSString * const OKClientErrorDomain = @"OKClientErrorDomain";
 
 + (NSURL*)APIBaseURL
 {
-    return [[NSURL alloc] initWithString:@""];
+    return [[NSURL alloc] initWithString:@"http://couchpotato.com"];
 }
 
 - (BOOL)isAuthenticated

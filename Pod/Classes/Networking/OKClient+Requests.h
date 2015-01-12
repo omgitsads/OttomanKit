@@ -12,6 +12,7 @@
 
 @interface OKClient (Requests)
 
-- (NSURLSessionDataTask*)requestWithPath:(NSString*)path parameters:(NSDictionary*)parameters rootNode:(NSString*)rootNode completion:(OKCollectionCompletionBlock)completion;
+- (NSURLSessionDataTask*)requestWithPath:(NSString*)path parameters:(NSDictionary*)parameters rootNode:(NSString*)rootNode completion:(OKResourceCompletionBlock)completion;
+- (NSURLSessionDataTask*)collectionRequestWithPath:(NSString*)path parameters:(NSDictionary*)parameters rootNode:(NSString*)rootNode completion:(OKCollectionCompletionBlock)completion;
 
 @end
