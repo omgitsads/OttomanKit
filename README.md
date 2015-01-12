@@ -1,6 +1,6 @@
 # OttomanKit
 
-[![CI Status](http://img.shields.io/travis/Adam Holt/OttomanKit.svg?style=flat)](https://travis-ci.org/Adam Holt/OttomanKit)
+[![CI Status](http://img.shields.io/travis/omgitsads/OttomanKit.svg?style=flat)](https://travis-ci.org/Adam Holt/OttomanKit)
 [![Version](https://img.shields.io/cocoapods/v/OttomanKit.svg?style=flat)](http://cocoadocs.org/docsets/OttomanKit)
 [![License](https://img.shields.io/cocoapods/l/OttomanKit.svg?style=flat)](http://cocoadocs.org/docsets/OttomanKit)
 [![Platform](https://img.shields.io/cocoapods/p/OttomanKit.svg?style=flat)](http://cocoadocs.org/docsets/OttomanKit)
