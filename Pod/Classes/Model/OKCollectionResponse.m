@@ -63,7 +63,7 @@
 - (BOOL)successful
 {
     NSInteger statusCode = [(NSHTTPURLResponse*)self.task.response statusCode];
-    return ((statusCode >= 200 || statusCode < 300) && (_json[@"success"] == @(YES)));
+    return ((statusCode >= 200 || statusCode < 300) && ([_json[@"success"] isEqualToNumber:@(YES)]));
 }
 
 @end

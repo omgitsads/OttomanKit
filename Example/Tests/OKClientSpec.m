@@ -15,7 +15,7 @@ OKClient *client = [[OKClient alloc] init];
 client.apiToken = @"";
 
 describe(@"isAuthenticated", ^{
-    it(@"should be authenticated", ^AsyncBlock{
+    it(@"should be authenticated", ^{
         expect(client.isAuthenticated).to.beTruthy();
     });
     
